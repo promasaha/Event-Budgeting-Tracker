@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.example
+.pytest_cache/
+
+terraform/
+
+docs/AWS_CONSOLE_SETUP.md
+docs/READMEexample.md
+READMEoriginal.md
