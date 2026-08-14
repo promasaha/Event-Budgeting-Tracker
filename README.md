@@ -7,8 +7,7 @@ vs. actual spend.
 
 **Stack:** Python 3.12, FastAPI, SQLAlchemy 2.0, PostgreSQL, Alembic.
 **Deploy target:** AWS API Gateway (HTTP API) + Lambda (container image) +
-RDS Postgres. ECS Fargate was considered but not used — see "Why Lambda, not
-Fargate" below.
+RDS Postgres.
 
 ## Data model
 
